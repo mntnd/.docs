@@ -56,9 +56,9 @@ See the [article](https://medium.com/@nodejs/call-to-action-accelerating-node-js
 
 > MQTT.js is another good example which is used by AWS, Microsoft, and IBM, however the maintainers have trouble in keeping up with the issues (110 and counting) while implementing new features.
 
-It feels like enterprises (like IBM) effort to get more out of voulnteer developers and not paying for it. We don't see this as a viable effort. Pkgjs is non commercial. Thus, there is not much outcome in couple of years time.
+It feels like enterprises' (like IBM) effort to get more out of voulnteer developers and not paying for it. We don't see this as a viable effort. Pkgjs is non commercial. Thus, there is not much outcome in couple of years time.
 
-Whereas, we intend to do it for money. Our main focus would be the software mostly used in interprises. We would like to win their trust by promising forever security.
+Whereas, we intend to do it for money. Our main focus would be the software widely used in enterprises. We would like to win their trust by promising forever security.
 
 Here is another quote from the same article:
 
