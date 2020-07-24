@@ -29,7 +29,7 @@ We have 5 priority levels:
 1. Security fixes - guranteed.
 2. Compatibility fixes - not guranteed, but high priority. Often you can't fix a vulnerability without applying compatibility fixes. Otherwise, we expect donations.
 3. Bug fixes - not guaranteed, medium priority. We would encourage companies to pay for this or volunteers to supply patches.
-4. Enhancements - not guaranteed, low priority. Enhancement is a software update which does not fix the software itself. E.g. dependency upgrades.
+4. Enhancements - not guaranteed, low priority. Enhancement are neither bugs nor features. E.g. dependency upgrades.
 5. New features - not guaranteed, not a priority. We can add a feature for money, or you can do it yourself in a reliable fashion (unit tests, security review, etc).
 
 ## 0-inbox GitHub issues
