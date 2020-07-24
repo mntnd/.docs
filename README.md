@@ -46,6 +46,8 @@ Every issue gets triaged ASAP. A corresponding issue label is put on each.
 * Same for **compatibility** problems.
 * **Security** issues will be kept open until the patch is released.
 
+You can search GitHub issues by labels. We encourage you to do so if, for example, you need to find a feature request.
+
 # How mntnd is different from Node.js [pkgjs](https://github.com/pkgjs) organisation?
 
 Pkgjs have similar goal as mntnd. Keep popular packages supported.
