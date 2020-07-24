@@ -1,8 +1,8 @@
-# What does Project Management (PM) gives you
+# What does Project Management gives you
 
 * Experience in high profile project management.
 * A line to your CV/resume about the important job you do. Enterprises **love** that kind of stuff.
-* You can earn money by fixing bugs and adding features for others. We help you with that.
+* You can earn money by fixing bugs and adding features for others. We help you on the financial side of things.
 * Deep knowledge about how code automation works in GitHub repos. We'll teach you and guide though.
 * We would endorse you in every way possible.
 
@@ -25,17 +25,17 @@ There are 5 issue labels in each project - security, compatibility, bug, enhance
 
 Close all issues unless labelled as "security".
 
-Never forbid discussions in the issues.
+Never forbid discussions in any of the issues.
 
 ## Security fixes
 
-As soon as a security bug was reporeted the PM must do everything possible to publish a new non-breaking version of the software ASAP. If can't then PM must actively seek help.
+As soon as a security bug was reported the PM must do everything possible to publish a new non-breaking version of the software ASAP. If can't then PM must actively seek help.
 
 But please note, that mntnd projects are likely automated to do most of the work for you. Especially we hope to apply vulnerable sub-dependency upgrades without PM involvement.
 
 ## Commitment
 
-You commit to do it forever.
+You commit to do your project managent thing forever.
 
 We understand that nothing is forever. Workarounds are possible.
 
@@ -43,4 +43,10 @@ We understand that nothing is forever. Workarounds are possible.
 
 A project must never live without a PM. Thus, if you intend to lay down your PM obligations - you must find yourself a replacement, a new PM who would agree to these conditions.
 
+# Recommendations to PMs
 
+## Do not take much on you
+
+Take 1 large or few small project only. Even if you have free time to manage 10 large projects simultaneously we don't want you to burn out. We care about you. Also, if you manage too many projects - this is a high risk for us. We can't take it. We tend to mitigate risks earlier.
+
+We encourage you making as much money as possible by maintaining a mntnd project. We'll try helping you here.
