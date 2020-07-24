@@ -80,7 +80,7 @@ The word "**m**ai**nt**ai**n**e**d**" without all the vowels - mntnd.
 
 First of all, you can't just give us a suggestion and leave. Here are our conditions:
 
-* The project must be officially deprecated. Alternatively, it can be abandoned for more than a year.
+* The project must be officially deprecated. Alternatively, it can be abandoned for a long period of time like a year, it depends.
 * The project must be popular. The meajurement of "popularity" differs from software to software, so we would have to look at each case individually. The projects widely used by big companies are more likely to get accepted.
 * **You** must find the project manager - the new maintainer.
 * The project manager must accept our [conditions](./manager.md).
