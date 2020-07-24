@@ -3,9 +3,9 @@
 * Forever maintained software. Untill we all die.
 * All lanugages. All platforms. All frameworks.
 * Maintenance priorities: 1 - security fixes, 2 - compatibility fixes, 3 - bug fixes, 4 - enhancements, 5 - new features.
-* Only the first priority is guaranteed.
+* Only the 1-st priority is guaranteed.
 * Maximum automation.
-* New project incubation happens after the project meets a number of conditions.
+* We accept new projects after the it meets a number of conditions.
 
 # What is mntnd?
 
@@ -23,7 +23,7 @@ We have 5 priority levels:
 2. Compatibility fixes - not guranteed, but high priority. Often you can't fix a vulnerability without applying compatibility fixes.
 3. Bug fixes - not guaranteed, medium priority. We would encourage companies to pay for this or volunteers to supply patches.
 4. Enhancements - not guaranteed, low priority. Enhancement is an software update which does not fix this the software itself, like dependency upgrades.
-5. New features - not guaranteed, not a priority. We can do this for money or do it yourself reliably.
+5. New features - not guaranteed, not a priority. We can add a feature for money, or you can do it yourself in a reliable fashion (unit tests, security review, etc).
 
 # What's the difference from Node.js [pkgjs](https://github.com/pkgjs) organisation?
 
@@ -39,6 +39,26 @@ Here is another quote from the same article:
 
 > These packages are often downloaded millions of times per month, however they sit in very deep dependency trees and the community expects that they just work: no one is interested in maintaining them. As we accelerate the pace of change with more up to date V8 versions in Node.js, easier **vulnerability** reporting, and more automated **security auditing** this just adds to the burden on the package maintainers.
 
+Also, pkjs have quite strict rules for everything. Whereas we are going to be as agile (flexible) as possible to cut times and lower various barriers.
+
+# You say Node.js, but what about Python and others?
+
+We embrace all languages, for all platforms, all frameworks, all operating systems, all environments, etc.
+
+It's just the Node.js is our first focus, because it needs us the most at this time.
+
 # What "mntnd" stands for?
 
 The word "**m**ai**nt**ai**n**e**d**" without all the vowels - mntnd.
+
+# How to add a new project into mntnd?
+
+First of all, you can't just give us a suggestion and leave. Here are our conditions:
+
+* The project must be officially deprecated or it can also be abandoned for more than a year.
+* The project must be popular. The meajurement of "popularity" differs from software to software, so we would have look at each case individually. The projects mostly used by big companies are more likely to get accepted.
+* **You** must find the project maintainer.
+
+# What's your governance?
+
+We will try coping the [Apache Software Foundation](https://www.apache.org/theapacheway/index.html) as much as needed but keeping in mind that flexibility and security patches are the top priority.
