@@ -95,6 +95,6 @@ Provide following info:
 * proof that it is popular,
 * proof that the nominated project manager accepts our [conditions](./manager.md).
 
-# What's your governance?
+# What's your governance rules?
 
 We will try coping the [Apache Software Foundation](https://www.apache.org/theapacheway/index.html) as much as needed but keeping in mind that flexibility and security patches are the top priority.
