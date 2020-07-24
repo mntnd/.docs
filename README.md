@@ -81,7 +81,7 @@ First of all, you can't just give us a suggestion and leave. Here are our condit
 * The project must be officially deprecated or it can also be abandoned for more than a year.
 * The project must be popular. The meajurement of "popularity" differs from software to software, so we would have to look at each case individually. The projects widely used by big companies are more likely to get accepted.
 * **You** must find the project manager - the new maintainer.
-* The project manager must accept our conditions.
+* The project manager must accept our [conditions](./manager.md).
 
 Exceptions to the conditions above are possible, but unlikely.
 
@@ -91,7 +91,7 @@ Provide following info:
 * the deprecated/abandoned project link,
 * proof that it got deprecated/abandoned,
 * proof that it is popular,
-* proof that the nominated project manager accepts our conditions.
+* proof that the nominated project manager accepts our [conditions](./manager.md).
 
 # What's your governance?
 
